@@ -1,0 +1,12 @@
+2025-12-15 18:40:56,996 - model-evaluation - DEBUG - Parameters retrived from params.yaml
+2025-12-15 18:40:57,287 - model-evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-12-15 18:40:57,303 - model-evaluation - ERROR - Failed to complete the model evaluation process: module 'pandas.errors' has no attribute 'ParseError'
+2025-12-15 18:42:14,786 - model-evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-12-15 18:42:14,936 - model-evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-12-15 18:42:14,936 - model-evaluation - ERROR - Unexpected error while loading data: [Errno 2] No such file or directory: './data/processed/test_tfidf.csv'
+2025-12-15 18:42:14,936 - model-evaluation - ERROR - Model evaluation pipeline failed: [Errno 2] No such file or directory: './data/processed/test_tfidf.csv'
+2025-12-15 18:44:11,232 - model-evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-12-15 18:44:11,497 - model-evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-12-15 18:44:11,550 - model-evaluation - DEBUG - Data loaded from data/interim/test_processed.csv
+2025-12-15 18:44:11,567 - model-evaluation - DEBUG - Model evaluation completed. R2: 0.9975
+2025-12-15 18:44:12,549 - model-evaluation - ERROR - Model evaluation pipeline failed: Empty git repo
