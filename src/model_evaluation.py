@@ -88,6 +88,10 @@ def save_metrics(metrics: dict, file_path: str) -> None:
         logger.error('Failed to save metrics: %s', e)
         raise
 
+def close_logger():
+    for handler in logger.handlers[:]:
+        handler.close()
+        logger.removeHandler(handler)
 
 # ---------------- MAIN ----------------
 def main():
@@ -101,6 +105,9 @@ def main():
         y_test = test_data.iloc[:, -1].values
 
         metrics = evaluate_model(model, X_test, y_test)
+
+        # ---- CLOSE LOG FILE BEFORE DVC ----
+        close_logger()
 
         with Live(save_dvc_exp=True) as live:
             for k, v in metrics.items():

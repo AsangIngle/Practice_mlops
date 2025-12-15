@@ -1,0 +1,24 @@
+2025-12-15 17:33:01,508 - data_preprocessing - DEBUG -Data loaded preperly
+2025-12-15 17:33:01,508 - data_preprocessing - DEBUG -Starting preprocessing for dataframe
+2025-12-15 17:33:01,524 - data_preprocessing - DEBUG -Transforming the string colum into numbers
+2025-12-15 17:33:01,536 - data_preprocessing - DEBUG -remove duplicates 
+2025-12-15 17:33:01,536 - data_preprocessing - DEBUG -Starting preprocessing for dataframe
+2025-12-15 17:33:01,537 - data_preprocessing - DEBUG -Transforming the string colum into numbers
+2025-12-15 17:33:01,538 - data_preprocessing - DEBUG -remove duplicates 
+2025-12-15 17:33:01,593 - data_preprocessing - DEBUG -Processed data saved to ./data\interim
+2025-12-16 00:16:20,524 - data_preprocessing - DEBUG -Data loaded preperly
+2025-12-16 00:16:20,533 - data_preprocessing - DEBUG -Starting preprocessing for dataframe
+2025-12-16 00:16:20,535 - data_preprocessing - DEBUG -Transforming the string colum into numbers
+2025-12-16 00:16:20,549 - data_preprocessing - DEBUG -remove duplicates 
+2025-12-16 00:16:20,549 - data_preprocessing - DEBUG -Starting preprocessing for dataframe
+2025-12-16 00:16:20,550 - data_preprocessing - DEBUG -Transforming the string colum into numbers
+2025-12-16 00:16:20,552 - data_preprocessing - DEBUG -remove duplicates 
+2025-12-16 00:16:20,607 - data_preprocessing - DEBUG -Processed data saved to ./data\interim
+2025-12-16 00:17:54,404 - data_preprocessing - DEBUG -Data loaded preperly
+2025-12-16 00:17:54,405 - data_preprocessing - DEBUG -Starting preprocessing for dataframe
+2025-12-16 00:17:54,405 - data_preprocessing - DEBUG -Transforming the string colum into numbers
+2025-12-16 00:17:54,423 - data_preprocessing - DEBUG -remove duplicates 
+2025-12-16 00:17:54,423 - data_preprocessing - DEBUG -Starting preprocessing for dataframe
+2025-12-16 00:17:54,424 - data_preprocessing - DEBUG -Transforming the string colum into numbers
+2025-12-16 00:17:54,426 - data_preprocessing - DEBUG -remove duplicates 
+2025-12-16 00:17:54,493 - data_preprocessing - DEBUG -Processed data saved to ./data\interim
