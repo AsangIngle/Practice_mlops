@@ -1,8 +1,0 @@
-2025-12-15 17:02:59,340- data_ingestion - DEBUG -Parameters restrived from params.yaml
-2025-12-15 17:02:59,413- data_ingestion - DEBUG -Data loaded from C:/Users/HP/Downloads/calories_exercise_combined.csv
-2025-12-15 17:02:59,422- data_ingestion - DEBUG -User id is been droped
-2025-12-15 17:02:59,423- data_ingestion - ERROR -Failed to compute the data ingestion process: Expected sequence or array-like, got <class 'NoneType'>
-2025-12-15 17:05:33,465- data_ingestion - DEBUG -Parameters restrived from params.yaml
-2025-12-15 17:05:33,525- data_ingestion - DEBUG -Data loaded from C:/Users/HP/Downloads/calories_exercise_combined.csv
-2025-12-15 17:05:33,527- data_ingestion - DEBUG -User id is been droped
-2025-12-15 17:05:33,590- data_ingestion - DEBUG -Train and test data saved to ./data\raw
