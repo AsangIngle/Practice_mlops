@@ -30,3 +30,11 @@
 2025-12-16 00:20:27,414 - model-evaluation - DEBUG - Model loaded from ./models/model.pkl
 2025-12-16 00:20:27,414 - model-evaluation - DEBUG - Data loaded from data/interim/test_processed.csv
 2025-12-16 00:20:27,435 - model-evaluation - DEBUG - Model evaluation completed. R2: 0.9975
+2025-12-17 20:00:04,157 - model-evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-12-17 20:00:04,364 - model-evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-12-17 20:00:04,371 - model-evaluation - DEBUG - Data loaded from data/interim/test_processed.csv
+2025-12-17 20:00:04,396 - model-evaluation - DEBUG - Model evaluation completed. R2: 0.9970
+2025-12-17 20:02:35,872 - model-evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-12-17 20:02:36,057 - model-evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-12-17 20:02:36,077 - model-evaluation - DEBUG - Data loaded from data/interim/test_processed.csv
+2025-12-17 20:02:36,101 - model-evaluation - DEBUG - Model evaluation completed. R2: 0.9976

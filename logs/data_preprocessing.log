@@ -22,3 +22,19 @@
 2025-12-16 00:17:54,424 - data_preprocessing - DEBUG -Transforming the string colum into numbers
 2025-12-16 00:17:54,426 - data_preprocessing - DEBUG -remove duplicates 
 2025-12-16 00:17:54,493 - data_preprocessing - DEBUG -Processed data saved to ./data\interim
+2025-12-17 19:59:33,452 - data_preprocessing - DEBUG -Data loaded preperly
+2025-12-17 19:59:33,452 - data_preprocessing - DEBUG -Starting preprocessing for dataframe
+2025-12-17 19:59:33,455 - data_preprocessing - DEBUG -Transforming the string colum into numbers
+2025-12-17 19:59:33,462 - data_preprocessing - DEBUG -remove duplicates 
+2025-12-17 19:59:33,463 - data_preprocessing - DEBUG -Starting preprocessing for dataframe
+2025-12-17 19:59:33,464 - data_preprocessing - DEBUG -Transforming the string colum into numbers
+2025-12-17 19:59:33,467 - data_preprocessing - DEBUG -remove duplicates 
+2025-12-17 19:59:33,517 - data_preprocessing - DEBUG -Processed data saved to ./data\interim
+2025-12-17 19:59:58,741 - data_preprocessing - DEBUG -Data loaded preperly
+2025-12-17 19:59:58,742 - data_preprocessing - DEBUG -Starting preprocessing for dataframe
+2025-12-17 19:59:58,744 - data_preprocessing - DEBUG -Transforming the string colum into numbers
+2025-12-17 19:59:58,746 - data_preprocessing - DEBUG -remove duplicates 
+2025-12-17 19:59:58,747 - data_preprocessing - DEBUG -Starting preprocessing for dataframe
+2025-12-17 19:59:58,748 - data_preprocessing - DEBUG -Transforming the string colum into numbers
+2025-12-17 19:59:58,750 - data_preprocessing - DEBUG -remove duplicates 
+2025-12-17 19:59:58,803 - data_preprocessing - DEBUG -Processed data saved to ./data\interim
