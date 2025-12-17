@@ -14,13 +14,13 @@
 2025-12-15 18:47:40,863 - model-evaluation - DEBUG - Model loaded from ./models/model.pkl
 2025-12-15 18:47:40,880 - model-evaluation - DEBUG - Data loaded from data/interim/test_processed.csv
 2025-12-15 18:47:40,899 - model-evaluation - DEBUG - Model evaluation completed. R2: 0.9975
-2025-12-15 18:47:42,585 - model-evaluation - ERROR - Model evaluation pipeline failed: could not remove 'C:/MLOps/practice/Practice_mlops/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+2025-12-15 18:47:42,585 - model-evaluation - ERROR - Model evaluation pipeline failed: could not remove 'C:/MLOps/practice/Practice_mlops/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
 
 2025-12-15 18:50:06,714 - model-evaluation - DEBUG - Parameters retrieved from params.yaml
 2025-12-15 18:50:06,942 - model-evaluation - DEBUG - Model loaded from ./models/model.pkl
 2025-12-15 18:50:06,946 - model-evaluation - DEBUG - Data loaded from data/interim/test_processed.csv
 2025-12-15 18:50:06,972 - model-evaluation - DEBUG - Model evaluation completed. R2: 0.9975
-2025-12-15 18:50:08,025 - model-evaluation - ERROR - Model evaluation pipeline failed: could not remove 'C:/MLOps/practice/Practice_mlops/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
+2025-12-15 18:50:08,025 - model-evaluation - ERROR - Model evaluation pipeline failed: could not remove 'C:/MLOps/practice/Practice_mlops/logs/model_evaluation.log': The process cannot access the file because it is being used by another process.
 
 2025-12-15 18:54:19,965 - model-evaluation - DEBUG - Parameters retrieved from params.yaml
 2025-12-15 18:54:20,213 - model-evaluation - DEBUG - Model loaded from ./models/model.pkl
@@ -38,3 +38,7 @@
 2025-12-17 20:02:36,057 - model-evaluation - DEBUG - Model loaded from ./models/model.pkl
 2025-12-17 20:02:36,077 - model-evaluation - DEBUG - Data loaded from data/interim/test_processed.csv
 2025-12-17 20:02:36,101 - model-evaluation - DEBUG - Model evaluation completed. R2: 0.9976
+2025-12-17 22:28:09,577 - model-evaluation - DEBUG - Parameters retrieved from params.yaml
+2025-12-17 22:28:09,978 - model-evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-12-17 22:28:09,998 - model-evaluation - DEBUG - Data loaded from data/interim/test_processed.csv
+2025-12-17 22:28:10,095 - model-evaluation - DEBUG - Model evaluation completed. R2: 0.9976

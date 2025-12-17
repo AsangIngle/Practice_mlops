@@ -26,3 +26,7 @@
 2025-12-17 20:02:29,602- data_ingestion - DEBUG -Data loaded from C:/Users/HP/Downloads/calories_exercise_combined.csv
 2025-12-17 20:02:29,604- data_ingestion - DEBUG -User id is been droped
 2025-12-17 20:02:29,658- data_ingestion - DEBUG -Train and test data saved to ./data\raw
+2025-12-17 22:27:51,541- data_ingestion - DEBUG -Parameters restrived from params.yaml
+2025-12-17 22:27:51,628- data_ingestion - DEBUG -Data loaded from C:/Users/HP/Downloads/calories_exercise_combined.csv
+2025-12-17 22:27:51,635- data_ingestion - DEBUG -User id is been droped
+2025-12-17 22:27:51,718- data_ingestion - DEBUG -Train and test data saved to ./data\raw

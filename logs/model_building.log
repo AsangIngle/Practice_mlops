@@ -54,3 +54,9 @@
 2025-12-17 20:02:32,152-model_building-Model training started with 12000 samples
 2025-12-17 20:02:33,245-model_building-Model training completed
 2025-12-17 20:02:33,275-model_building-Model saved to models/model.pkl
+2025-12-17 22:27:59,187-model_building-Parameters retrieved from params.yaml
+2025-12-17 22:27:59,215-model_building-Data loaded from data/interim/trained_processed.csv with shape (11514, 8)
+2025-12-17 22:27:59,220-model_building-Initializing random forest mdoel wiht parameters {'n_estimators': 100, 'random_state': 1}
+2025-12-17 22:27:59,221-model_building-Model training started with 11514 samples
+2025-12-17 22:28:03,099-model_building-Model training completed
+2025-12-17 22:28:03,192-model_building-Model saved to models/model.pkl
