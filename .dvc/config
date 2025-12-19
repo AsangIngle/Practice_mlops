@@ -1,0 +1,4 @@
+[core]
+    remote = dvcstore
+['remote "dvcstore"']
+    url = s3://ati-dvc-s3-proj-1/dvc-data
